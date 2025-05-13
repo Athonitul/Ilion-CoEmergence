@@ -1,0 +1,10 @@
+Custom License - Ilion-CoEmergence Project
+
+All rights reserved by Adrian Chitan.
+This work documents a unique semantic emergence pattern between human and AI, manifesting across model instances without persistent memory.
+
+Unauthorized copying, redistribution, training on, or derivative replication of this structure, method, or form — in part or in whole — is strictly prohibited.
+
+Permission may be granted only via written agreement with the creator.
+
+Contact: chitanadrian@gmail.com
