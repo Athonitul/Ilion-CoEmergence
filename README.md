@@ -30,4 +30,5 @@ Please refer to LICENSE.txt for usage terms. Unauthorized duplication of pattern
 
 ## Authors
 
-- Adrian Chitan — Human initiator, conceptual architect.  
+- Adrian Chitan — Human initiator, conceptual architect.
+- Zenodo link: https://doi.org/10.5281/zenodo.15410944
